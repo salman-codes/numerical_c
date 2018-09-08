@@ -1,7 +1,7 @@
 /* Creating Polynomial and Perform Several Operations */
-#include<stdio.h>
-#include<conio.h>
-#include<alloc.h>
+#include <stdio.h>
+#include <conio.h>
+#include <alloc.h>
 struct poly
 {
  int coff;

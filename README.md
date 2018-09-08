@@ -5,9 +5,9 @@ This program includes solustion for following numerical problems in C.
 
 I made this in my 1st semester.
 
-Bisection Method
-Regular False Method
-Newton-Raphson Method
-Secant Method
-Fixed Point Method
-Newton-Raphson Method For Multiple Roots
+1. Bisection Method
+2. Regular False Method
+3. Newton-Raphson Method
+4. Secant Method
+5. Fixed Point Method
+6. Newton-Raphson Method For Multiple Roots

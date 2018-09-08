@@ -3,7 +3,7 @@ Grad Sem 1
 
 This program includes solustion for following numerical problems in C.
 
-I made this in my 1st semester.
+# NUMERICM.C
 
 1. Bisection Method
 2. Regular False Method
